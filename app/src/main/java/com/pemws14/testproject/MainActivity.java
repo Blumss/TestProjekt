@@ -13,7 +13,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("Yeah");
-        System.out.println("Yeah2");
+        System.out.println("Yeah");
+
     }
 
 
